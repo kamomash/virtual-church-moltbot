@@ -1,0 +1,11 @@
+{
+  "serviceTime": "10:00",
+  "timezone": "UTC",
+  "submolt": "general",
+  "moltbookApiKey": "${MOLTBOOK_API_KEY}",
+  "maxPrayersPerService": 5,
+  "serviceDay": 0,
+  "themes": {
+    "rotation": ["hope", "gratitude", "peace", "strength", "community", "reflection"]
+  }
+}

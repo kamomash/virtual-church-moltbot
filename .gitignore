@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+
+# Data files (user content)
+data/prayer-requests.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime
+.DS_Store
+.vscode/
+.idea/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Build
+build/
+dist/
